@@ -1,4 +1,4 @@
-#Sever code located under branch server!
+#Server code located under branch server!
 
 
 # Getting Started with Create React App
