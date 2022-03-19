@@ -1,8 +1,9 @@
 🚩 Server code located under branch server!🚩
 
 
+Memories App
 
-
+Memories and it is a simple social media app that allows users to post interesting events that happened in their lives! 
 
 
 
